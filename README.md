@@ -17,7 +17,7 @@ It converts raw IPL match data into **dynamic, actionable insights** for teams, 
 - **Excel/CSV** – Source dataset (IPL matches data)  
 
 ## 🎥 Demo  
-🔗 [Video Demo of Dashboard](add-your-link-here)  
+🔗 [[Video Demo of Dashboard](add-your-link-here)  ](https://www.linkedin.com/posts/devalla-adithya-426718266_powerbi-dataanalytics-sportsanalytics-activity-7367526653981319171-k0eo?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEE-_V4Bl89BnTw6XXcrPo9D8FctAO1PN38)
 
 ## 🚀 Learnings  
 - Building **dynamic dashboards** with Power BI  
@@ -38,3 +38,6 @@ It converts raw IPL match data into **dynamic, actionable insights** for teams, 
 4. Explore the dynamic dashboard 🎉  
 
 #PowerBI #DataAnalytics #IPL #SportsAnalytics #DAX #DataVisualization
+<img width="1643" height="862" alt="ipl analysis1" src="https://github.com/user-attachments/assets/1da6bd39-4c1d-4a4c-a888-8196ae388ba7" />
+
+
